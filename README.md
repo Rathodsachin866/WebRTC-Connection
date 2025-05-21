@@ -1,0 +1,2 @@
+In this repo i coded WebRTC code which is used to establish peer to peer connection between two broswer without considering a server ,it basically used three main function 1.getUserMedia(), 2.RTCPeerConnection(),3.signaling via WebSocket to Exchange connection info 
+WebRTC is allow features like video streaming , Voice calling, live streaming , screen sharing, file transfering and real-time communication etc
